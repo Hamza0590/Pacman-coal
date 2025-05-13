@@ -9,6 +9,7 @@
 - Built using **MASM** and the **Irvine32** library.
 - Fully playable in the terminal window.
 - **3 uniquely designed levels**, each with increasing complexity and new grid patterns.
+- Instructions are given in the game.
 - Classic gameplay: 
   - Eat **pallets (.)**
   - Grab **bonuses (*)**
@@ -47,14 +48,8 @@ This project was developed as part of a university course to strengthen our unde
 ## 🧑‍💻 Developer
 
 **Muhammad Hamza**  
-Solo-developed as a semester project.  
+Developed as a semester project.  
 Currently studying at FAST University, Islamabad, pursuing a degree in Artificial Intelligence.
-
----
-
-## 📬 Feedback
-
-Feel free to suggest improvements or report issues. Your feedback is valuable!
 
 ---
 
